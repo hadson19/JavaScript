@@ -2,5 +2,6 @@
 
 http://www.codecademy.com
 
-Выразительный Javascript
+Выразительный Javascript.
+
 http://karmazzin.gitbooks.io/eloquentjavascript_ru/
