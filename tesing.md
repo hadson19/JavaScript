@@ -5,3 +5,7 @@ http://www.codecademy.com
 Выразительный Javascript.
 
 http://karmazzin.gitbooks.io/eloquentjavascript_ru/
+
+Паттерны для масштабируемых JavaScript-приложений
+
+http://largescalejs.ru/
