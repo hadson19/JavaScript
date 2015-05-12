@@ -6,7 +6,6 @@ learn.javascript.ru
 
 http://karmazzin.gitbooks.io/eloquentjavascript_ru/
 
-
 Выразительный Javascript.
 
 http://karmazzin.gitbooks.io/eloquentjavascript_ru/
@@ -18,3 +17,9 @@ http://largescalejs.ru/
 Современный учебник JavaScript
 
 https://github.com/vhf/free-programming-books/blob/master/free-programming-books-ru.md#javascript
+
+
+
+JavaScript Garden - Иво Ветцель
+
+http://bonsaiden.github.io/JavaScript-Garden/ru/
