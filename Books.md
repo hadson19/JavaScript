@@ -75,7 +75,7 @@
 </p>
 
 <p>
-<a href="#">
+<a href="http://read.humanjavascript.com/ch01-introduction.html">
  <h3>Human JavaScript</h3>
 </a>
 </p>
