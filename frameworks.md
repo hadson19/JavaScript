@@ -3,6 +3,6 @@ http://www.javascripting.com/
 
 // frameworks, libraries //
 
-React Js
+React JS
 
 [Краткое руководство по React JS](http://habrahabr.ru/post/248799/)
