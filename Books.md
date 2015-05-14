@@ -58,4 +58,8 @@
 </p>
 
 
-
+<p>
+<a href="https://github.com/tcorral/javascript-challenges-book">
+ <h3>Javascript Challenges Tomas Corral</h3>
+</a>
+</p>
