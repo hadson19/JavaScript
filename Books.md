@@ -8,6 +8,16 @@
 
 <p>
 <a href="#">
+<h3>Programming JavaScript Applications</h3>
+
+</a>
+</p>
+
+
+
+
+<p>
+<a href="#">
 <h3>Дэвид Флэнаган. JavaScript. Подробное руководство, 6-е издание</h3>
 </a>
 </p>
