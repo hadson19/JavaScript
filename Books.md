@@ -53,6 +53,14 @@
 <p>
 <a href="#">
  <h3>Understanding ECMAScript 6</h3>
-</a>
-<a href="https://github.com/nzakas/understandinges6"> scripts </a>
+</a> <a href="https://github.com/nzakas/understandinges6"> scripts </a>
 </p>
+
+<p>
+<a href="http://www.ecma-international.org/publications/files/ECMA-ST/Ecma-262.pdf">
+ <h3>ECMAScript Language Specification (2011)</h3>
+</a>
+</p>
+
+
+
