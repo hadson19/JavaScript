@@ -54,4 +54,5 @@
 <a href="#">
  <h3>Understanding ECMAScript 6</h3>
 </a>
+<a href="https://github.com/nzakas/understandinges6"> scripts </a>
 </p>
