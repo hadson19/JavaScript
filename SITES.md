@@ -11,3 +11,5 @@
 [JavaScript Garden - Иво Ветцель](http://bonsaiden.github.io/JavaScript-Garden/ru/)
 
 [Awesome JavaScript](https://github.com/sorrycc/awesome-javascript)
+
+[JavaScript books](http://jsbooks.revolunet.com/)
