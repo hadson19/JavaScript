@@ -64,6 +64,7 @@
 <p>
 <a href="http://www.ecma-international.org/publications/files/ECMA-ST/Ecma-262.pdf">
  <h3>ECMAScript Language Specification (2011)</h3>
+ <img src="http://www.ecma-international.org/ecma-262/5.1/Ecma_RVB-003.jpg"  height="150" />
 </a>
 </p>
 
@@ -71,6 +72,7 @@
 <p>
 <a href="https://github.com/tcorral/javascript-challenges-book">
  <h3>Javascript Challenges Tomas Corral</h3>
+ <img src="https://www.gitbook.com/cover/book/amischol/javascript_challenges.jpg?build=1420792267101"  height="300" />
 </a>
 </p>
 
