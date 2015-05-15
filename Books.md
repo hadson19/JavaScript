@@ -82,7 +82,7 @@
 
 
 <p>
-<a href="http://read.humanjavascript.com/ch01-introduction.html">
+<a href="https://vk.com/doc10903696_309832418?hash=1194c2e4cabeda722a&dl=be50d5c43be5be08da">
  <h3>Дэвид Флэнаган "JavaScript. Подробное руководство" (6-е издание) (2012, PDF)</h3>
  <img src="https://pp.vk.me/c616526/v616526093/faa2/jkbM14xdiAU.jpg"  height="300" />
 </a>
