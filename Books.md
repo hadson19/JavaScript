@@ -77,6 +77,8 @@
 <p>
 <a href="http://read.humanjavascript.com/ch01-introduction.html">
  <h3>Human JavaScript</h3>
+ <img src="https://static-2.gumroad.com/res/gumroad/files/8062ad2e9ab08b14abfb51d1e7fb02bd/original/human_js_black-01.png"  height="300" />
+ 
 </a>
 </p>
 
