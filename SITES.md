@@ -13,3 +13,5 @@
 [Awesome JavaScript](https://github.com/sorrycc/awesome-javascript)
 
 [JavaScript books](http://jsbooks.revolunet.com/)
+
+[JavaScript Best Practices](http://www.w3schools.com/js/js_best_practices.asp)
