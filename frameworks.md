@@ -8,5 +8,7 @@ http://www.javascripting.com/
 
 [React Component API](https://facebook.github.io/react/docs/component-api.html)
 
+React is a small library that does one thing well. Here's a list of tools we've found that work really well with React when building applications.
+[Complementary Tools](https://github.com/facebook/react/wiki/Complementary-Tools)
 ###Node.js
 [RESTful Web API Design with Node.js]()
