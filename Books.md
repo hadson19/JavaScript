@@ -123,6 +123,13 @@
 </a>
 </p>
 
+<p>
+<a href="https://github.com/HugoGiraudel/SJSJ">
+ <h3>Simplified JavaScript Jargon (short SJSJ) </h3>
+</a>
+</p>
+
+
 
 
 https://github.com/lukehoban/es6features
