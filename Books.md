@@ -99,4 +99,9 @@
 </a>
 </p>
 
+<p>
+<a href="https://shichuan.github.io/javascript-patterns/">
+ <h3>JavaScript Patterns Collection</h3>
+</a>
+</p>
 https://github.com/lukehoban/es6features
