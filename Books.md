@@ -104,4 +104,11 @@
  <h3>JavaScript Patterns Collection</h3>
 </a>
 </p>
+
+<p>
+<a href="https://github.com/vasanthk/js-bits">
+ <h3>JS Bits</h3>
+</a>
+</p>
+
 https://github.com/lukehoban/es6features
