@@ -111,4 +111,18 @@
 </a>
 </p>
 
+<p>
+<a href="https://github.com/tcorral/javascript-challenges-book">
+ <h3>Javascript Challenges</h3>
+</a>
+</p>
+
+<p>
+<a href="https://github.com/fdietz/recipes-with-angular-js-examples">
+ <h3>Recipes with Angular.js</h3>
+</a>
+</p>
+
+
+
 https://github.com/lukehoban/es6features
