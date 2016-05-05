@@ -92,4 +92,11 @@
 </a>
 </p>
 
+
+<p>
+<a href="https://github.com/addyosmani/essential-js-design-patterns">
+ <h3>Learning JavaScript Design Patterns</h3>
+</a>
+</p>
+
 https://github.com/lukehoban/es6features
