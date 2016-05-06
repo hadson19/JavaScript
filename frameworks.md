@@ -16,6 +16,9 @@ http://www.javascripting.com/
 
 [Flux React Router Example](https://github.com/gaearon/flux-react-router-example)
 
+[Awesome React](https://github.com/enaqx/awesome-react)
+A collection of awesome things regarding React ecosystem.
+
 Quick lessons for getting up-to-speed with React Router.
 ##Flux
 [flux-examples](https://github.com/yahoo/fluxible/tree/master/examples)
