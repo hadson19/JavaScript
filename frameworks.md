@@ -8,6 +8,8 @@ http://www.javascripting.com/
 ####Ru
 [Краткое руководство по React JS](http://habrahabr.ru/post/248799/) - Статья даст вам краткий обзор того, как строятся интерфейсы с помощью React JS. Вы можете параллельно писать код с помощью starter kit, или просто продолжать читать.
 
+[Isomorphic React.js with PHP server-side rendering](http://isomorphic.net/) It's a screen cast about  how we could render on server side react page
+
 ####EN
 [React Component API](https://facebook.github.io/react/docs/component-api.html) - all about react placed on facebook.github.io
 
