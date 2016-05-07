@@ -1,4 +1,5 @@
-List frameworks
+##List frameworks
+
 http://www.javascripting.com/
 
 // frameworks, libraries //
@@ -37,6 +38,12 @@ React is a small library that does one thing well. Here's a list of tools we've 
 [Complementary Tools](https://github.com/facebook/react/wiki/Complementary-Tools)
 
 ##Redux
+
+####RU
+
+  [Разбираемся с Redux](https://habrahabr.ru/post/269831/)
+  
+####EN
 [Usage with React](http://redux.js.org/docs/basics/UsageWithReact.html) - from the very beginning, we need to stress that Redux has no relation to React. You can write Redux apps with React, Angular, Ember, jQuery, or vanilla JavaScript.
 
 [Immutable Rredux Todo](https://github.com/sitepoint-editors/immutable-redux-todo) - how to Build a Todo App Using React, Redux, and Immutable.js Shows how to build a Todo app using React, Redux, and Immutable.js. Help article to this source [How to Build a Todo App Using React, Redux, and Immutable.js](http://www.sitepoint.com/how-to-build-a-todo-app-using-react-redux-and-immutable-js/)
