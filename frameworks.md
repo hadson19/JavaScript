@@ -4,24 +4,33 @@ http://www.javascripting.com/
 // frameworks, libraries //
 
 ###React JS
-[Краткое руководство по React JS](http://habrahabr.ru/post/248799/)
+####Ru
+[Краткое руководство по React JS](http://habrahabr.ru/post/248799/) - Статья даст вам краткий обзор того, как строятся интерфейсы с помощью React JS. Вы можете параллельно писать код с помощью starter kit, или просто продолжать читать.
 
-[React Component API](https://facebook.github.io/react/docs/component-api.html)
+####EN
+[React Component API](https://facebook.github.io/react/docs/component-api.html) - all about react placed on facebook.github.io
 
-[React Static Boilerplate](https://github.com/koistya/react-static-boilerplate)
+[React Static Boilerplate](https://github.com/koistya/react-static-boilerplate)  - features
+    ✓ Generates static .html pages from React components
+    ✓ Generates routes based on the list of files in the /pages folder
+    ✓ Next generation JavaScript with Babel
+    ✓ Sass syntax for CSS via postCSS and precss
+    ✓ Development web server with BrowserSync and React Transform
+    ✓ Bundling and optimization with Webpack
+    ✓ Code-splitting and async chunk loading
+    ✓ Easy deployment to GitHub Pages, Amazon S3 or Firebase
+    ✓ Yeoman generator (generator-react-static). Visit demo site
 
-[isomorphic-react-example](https://github.com/DavidWells/isomorphic-react-example)
+[Isomorphic React Example](https://github.com/DavidWells/isomorphic-react-example) - there is a push to change the word Isomorphic to Universal. Whatever floats your boat! See full post on ReactJS News. Shared JavaScript that runs on both the client & server.
 
-[React Router Tutorial](https://github.com/reactjs/react-router-tutorial)
+[React Router Tutorial](https://github.com/reactjs/react-router-tutorial) - Quick lessons for getting up-to-speed with React Router. Each lesson is a fully runnable app with all code from the previous lesson, so you can cd lessons/<lesson-folder>, npm install, and then run the appropriate NPM scripts for each lesson from within the lesson folder.
 
-[Flux React Router Example](https://github.com/gaearon/flux-react-router-example)
+!!! [Awesome React](https://github.com/enaqx/awesome-react) - a collection of awesome things regarding React ecosystem. Thera many many many information about react. Also thera Quick lessons for getting up-to-speed with React Router.
 
-[Awesome React](https://github.com/enaqx/awesome-react)
-A collection of awesome things regarding React ecosystem.
-
-Quick lessons for getting up-to-speed with React Router.
 ##Flux
-[flux-examples](https://github.com/yahoo/fluxible/tree/master/examples)
+[Flux-examples](https://github.com/yahoo/fluxible/tree/master/examples)
+
+[Flux React Router Example](https://github.com/gaearon/flux-react-router-example) - this is a sample Flux app I wrote on a weekend. It uses open Github API to display starred repos by users and stargazers by repo.
 
 
 React is a small library that does one thing well. Here's a list of tools we've found that work really well with React when building applications.
