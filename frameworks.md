@@ -39,10 +39,10 @@ React is a small library that does one thing well. Here's a list of tools we've 
 ##Redux
 [Usage with React](http://redux.js.org/docs/basics/UsageWithReact.html) - from the very beginning, we need to stress that Redux has no relation to React. You can write Redux apps with React, Angular, Ember, jQuery, or vanilla JavaScript.
 
-[immutable-redux-todo](https://github.com/sitepoint-editors/immutable-redux-todo) - How to Build a Todo App Using React, Redux, and Immutable.js Shows how to build a Todo app using React, Redux, and Immutable.js. Help article to this source [How to Build a Todo App Using React, Redux, and Immutable.js](http://www.sitepoint.com/how-to-build-a-todo-app-using-react-redux-and-immutable-js/)
+[Immutable Rredux Todo](https://github.com/sitepoint-editors/immutable-redux-todo) - How to Build a Todo App Using React, Redux, and Immutable.js Shows how to build a Todo app using React, Redux, and Immutable.js. Help article to this source [How to Build a Todo App Using React, Redux, and Immutable.js](http://www.sitepoint.com/how-to-build-a-todo-app-using-react-redux-and-immutable-js/)
 
 ###AngularJs
-[list of helpful material to start learning Angular 2](https://github.com/timjacobi/angular2-education)
+[List of helpful material to start learning Angular 2](https://github.com/timjacobi/angular2-education)
 
 Examples from ng-book [Angular 2 RxJS Chat ](https://github.com/ng-book/angular2-rxjs-chat)
 
