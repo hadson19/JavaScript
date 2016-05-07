@@ -25,7 +25,7 @@ http://www.javascripting.com/
 
 [React Router Tutorial](https://github.com/reactjs/react-router-tutorial) - Quick lessons for getting up-to-speed with React Router. Each lesson is a fully runnable app with all code from the previous lesson, so you can cd lessons/<lesson-folder>, npm install, and then run the appropriate NPM scripts for each lesson from within the lesson folder.
 
-!!! [Awesome React](https://github.com/enaqx/awesome-react) - a collection of awesome things regarding React ecosystem. Thera many many many information about react. Also thera Quick lessons for getting up-to-speed with React Router.
+!!! [Awesome React](https://github.com/enaqx/awesome-react) - a collection of awesome things regarding React ecosystem. There are many many many information about react. Also there are Quick lessons for getting up-to-speed with React Router.
 
 ##Flux
 [Flux-examples](https://github.com/yahoo/fluxible/tree/master/examples)
