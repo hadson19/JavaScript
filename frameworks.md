@@ -46,6 +46,8 @@ React is a small library that does one thing well. Here's a list of tools we've 
 ####EN
 [Usage with React](http://redux.js.org/docs/basics/UsageWithReact.html) - from the very beginning, we need to stress that Redux has no relation to React. You can write Redux apps with React, Angular, Ember, jQuery, or vanilla JavaScript.
 
+[Awesome Redux](https://github.com/xgrommx/awesome-redux#articles-and-tutorials) - list of repositories which use Redux
+
 [Immutable Rredux Todo](https://github.com/sitepoint-editors/immutable-redux-todo) - how to Build a Todo App Using React, Redux, and Immutable.js Shows how to build a Todo app using React, Redux, and Immutable.js. Help article to this source [How to Build a Todo App Using React, Redux, and Immutable.js](http://www.sitepoint.com/how-to-build-a-todo-app-using-react-redux-and-immutable-js/)
 
 [Screen cast](https://egghead.io/lessons/javascript-redux-react-counter-example) - it's a screencast on egghead.io site.
