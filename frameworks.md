@@ -36,6 +36,9 @@ http://www.javascripting.com/
 React is a small library that does one thing well. Here's a list of tools we've found that work really well with React when building applications.
 [Complementary Tools](https://github.com/facebook/react/wiki/Complementary-Tools)
 
+##Redax
+
+
 ###AngularJs
 [list of helpful material to start learning Angular 2](https://github.com/timjacobi/angular2-education)
 
