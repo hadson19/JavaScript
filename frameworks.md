@@ -50,6 +50,8 @@ React is a small library that does one thing well. Here's a list of tools we've 
 
 [Screen cast](https://egghead.io/lessons/javascript-redux-react-counter-example) - it's a screencast on egghead.io site.
 
+[Full-Stack Redux Tutorial A Comprehensive Guide to Test-First Development with Redux, React, and Immutable](http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html) - there are big content about redux
+
 ###AngularJs
 [List of helpful material to start learning Angular 2](https://github.com/timjacobi/angular2-education)
 
