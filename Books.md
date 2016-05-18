@@ -1,7 +1,7 @@
 
 <p>
 <a href="https://github.com/hadson19/You-Dont-Know-JS">
-<h3> You-Dont-Know-JS </h3>
+<b> You-Dont-Know-JS </b>
 <img src="https://github.com/hadson19/You-Dont-Know-JS/raw/master/async%20&%20performance/cover.jpg"  height="300" />
 </a>
 </p>
@@ -31,7 +31,7 @@
 
 <p>
 <a href="#">
- <h3>Денни Гудман, Майкл Моррисон</h3>
+ <b>Денни Гудман, Майкл Моррисон</b>
 </a>
 </p>
 
